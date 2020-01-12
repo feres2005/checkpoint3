@@ -1,0 +1,257 @@
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 40px;
+    font-size: 30px
+}
+
+a:hover {
+    color: red;
+}
+
+h1 {
+    color: white;
+    font-size: 40px
+}
+
+body {
+
+    background: rgb(2, 0, 36);
+    background: linear-gradient(201deg, rgba(2, 0, 36, 1) 0%, rgba(255, 0, 22, 1) 100%);
+}
+
+.courses-container {
+    height: 800px;
+}
+
+.course1 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/2.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course1 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course1:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.course2 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/3.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course2 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course2:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.course3 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/4.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course3 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course3:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.course4 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/5	.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course4 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course4:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.course5 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/6.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course5 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course5:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.course6 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/7.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course6 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course6:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.course7 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/8.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course7 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course7:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.course8 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/9.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course8 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course8:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.course9 {
+    width: 180px;
+    height: 180px;
+
+    display: inline-block;
+    background-image: url('../res/10.png');
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.course9 button {
+    margin-left: 38px;
+    margin-top: 79px;
+}
+
+.course9:hover {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.header {
+    background-image: url('../res/1.png');
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 400px;
+}
+
+.header h3 {
+    color: white;
+    margin-left: 50%;
+    font-size: 40px
+}
+
+.day,
+.pass,
+.name,
+.namber {
+    color: white;
+
+}
+
+.center {
+    display: inline-block;
+}
+
+.aziz {
+    display: flex;
+    justify-content: center;
+}
+
+.mouhamed {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#text {
+    width: 400px;
+    height: 200px;
+}
